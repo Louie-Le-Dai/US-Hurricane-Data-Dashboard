@@ -2,7 +2,7 @@
 This is my project of UBC-ECON573 Environmental Economics
 An interactive Shiny dashboard that visualizes how county-level home values evolve after hurricane strikes in the United States.
 
-**Dashboard:** [louie20021016.shinyapps.io/econ_573]([https://your-username.shinyapps.io/your-app-name](https://louie20021016.shinyapps.io/econ_573/))
+**Dashboard:** [louie20021016.shinyapps.io/econ_573]([https://louie20021016.shinyapps.io/econ_573](https://louie20021016.shinyapps.io/econ_573/))
 
 ## Features
 
